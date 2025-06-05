@@ -48,5 +48,4 @@
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/harshitttxx?ext=heatmap&theme=light)](https://leetcode.com/u/harshitttxx/)
 
-![Harshit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cl0ud08&show_icons=true&theme=radical)
 
