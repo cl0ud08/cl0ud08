@@ -44,10 +44,7 @@
   <a href="https://streamlit.io/" target="_blank"><img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" alt="streamlit" width="80" /></a>
 </p>
 
----
+### 🧠 LeetCode Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshit-6095&show_icons=true&locale=en&layout=compact" alt="harshit-6095" /></p>
+[![LeetCode Stats](https://leetcard.jacoblin.cool/harshitttxx?ext=heatmap&theme=dark)](https://leetcode.com/u/harshitttxx/)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshit-6095&show_icons=true&locale=en" alt="harshit-6095" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshit-6095&" alt="harshit-6095" /></p>
