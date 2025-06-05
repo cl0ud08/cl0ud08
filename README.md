@@ -10,7 +10,7 @@
 - 💬 Ask me about **MERN Stack**, **DevOps**, or **Cloud Infrastructure**
 - 🛠️ Exploring **CI/CD**, **Terraform**, **ECS**, and **IaC**
 - 🧑‍💻 C++ & Python enthusiast for building efficient systems
-- ⚡ Fun fact: I love optimizing backend logic & automating infrastructure workflows
+
 
 ---
 
