@@ -65,26 +65,9 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=cl0ud08&show_icons=true&theme=radical" alt="Harshit's GitHub Stats" />
-</p>
-
-<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cl0ud08&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cl0ud08&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-
----
-
-### 📈 Contribution Graph
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=cl0ud08&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-### 🐍 Snake Contribution Animation
-
-```md
-![Snake animation](https://github.com/cl0ud08/cl0ud08/blob/output/github-contribution-grid-snake.svg)
