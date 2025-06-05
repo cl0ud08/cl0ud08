@@ -25,9 +25,10 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/harshit-gupta-407857329/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
+
 
 ---
 
