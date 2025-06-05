@@ -11,7 +11,7 @@
 
 ---
 
-### 📌 About Me
+## 📌 About Me
 
 - 🎓 Final year **B.Tech CSE** @ **UPES Dehradun**
 - 🌱 Learning **Cloud-Native DevOps**, **Kubernetes**, **Next.js**
@@ -21,20 +21,19 @@
 
 ---
 
-### 📫 Connect With Me
+## 📫 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/harshit-gupta-407857329/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
 
-
 ---
 
-### 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
 
-<p align="left">
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
@@ -57,18 +56,22 @@
 
 ---
 
-### 🧠 LeetCode Stats
+## 🧠 LeetCode Stats
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/harshitttxx?ext=heatmap&theme=light)](https://leetcode.com/u/harshitttxx/)
+<p align="center">
+  <a href="https://leetcode.com/u/harshitttxx/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/harshitttxx?ext=heatmap&theme=light" alt="LeetCode Stats" />
+  </a>
+</p>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cl0ud08&theme=light" alt="GitHub Streak" />
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cl0ud08&layout=compact&theme=light" alt="Top Languages" />
 </p>
