@@ -46,5 +46,6 @@
 
 ### 🧠 LeetCode Stats
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/harshitttxx?ext=heatmap&theme=dark)](https://leetcode.com/u/harshitttxx/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/harshitttxx?ext=heatmap&theme=light)](https://leetcode.com/u/harshitttxx/)
+
 
