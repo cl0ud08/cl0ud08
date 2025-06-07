@@ -17,7 +17,7 @@
 - 🌱 Learning **Cloud-Native DevOps**, **Kubernetes**, **Next.js**
 - 🛠️ Exploring **CI/CD**, **Terraform**, **Docker**, **ECS**, and **IaC**
 - 💬 Ask me about **MERN Stack**, **DevOps**, or **Cloud Infrastructure**
-- 🧠 Enjoy working with **C++** and **Python** for systems & problem solving
+- 🧠 Enjoy working with **C++** for problem solving
 
 ---
 
