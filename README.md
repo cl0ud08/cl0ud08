@@ -93,7 +93,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical&count_private=true" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" height="180px"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitgupta&layout=compact&langs_count=6&hide=html,css&theme=radical" height="180px"/>
 </p>
 
 <p align="center">
