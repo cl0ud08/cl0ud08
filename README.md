@@ -20,7 +20,7 @@
     <a href="mailto:Harshit.109350@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
-    <a href="https://leetcode.com/your-leetcode-id/">
+    <a href="[https://leetcode.com/your-harshitttxx/](https://leetcode.com/u/harshitttxx/)">
       <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
     </a>
   </p>
